@@ -1,6 +1,6 @@
 # django-vue-oauth-boilerplate
 
-> A Vue.js project
+> A Vue.js + Django + Oauth project
 
 ## Build Setup
 
